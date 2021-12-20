@@ -1,0 +1,4 @@
+praju 90000 6743 Google
+asd 80000 7649 TCS
+pps 70000 7892 HCL
+ppt 60000 5673 MCQ
